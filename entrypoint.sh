@@ -4,7 +4,11 @@ set -eu
 
 export GITHUB="true"
 
-pwd
+cd /
+
+ls
+
+cd /bin
 
 ls
 
