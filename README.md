@@ -1,1 +1,6 @@
-# action
+# upyun2github
+
+- `UPYUN_DIR`
+- `UPYUN_BUCKET`
+- `UPYUN_USERNAME`
+- `UPYUN_PASSWORD`
