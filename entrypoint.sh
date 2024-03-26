@@ -4,11 +4,7 @@ set -eu
 
 export GITHUB="true"
 
-cd /
-
-ls
-
-cd /box
+cd /home/runner/work/image-host/image-host
 
 ls
 
