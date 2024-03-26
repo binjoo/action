@@ -4,4 +4,12 @@ set -eu
 
 export GITHUB="true"
 
-sh -c "java -jar /app.jar $*"
+cd /
+
+ll
+
+mkdir box
+
+cd /box
+
+# sh -c "java -jar /app.jar $*"
