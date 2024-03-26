@@ -8,8 +8,8 @@ cd /
 
 ls
 
-mkdir box
-
 cd /box
+
+ls
 
 # sh -c "java -jar /app.jar $*"
