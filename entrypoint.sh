@@ -9,7 +9,7 @@ pwd
 echo endpwd
 
 echo ls
-ls
+ls -a
 echo endls
 
 # sh -c "java -jar /app.jar $*"
