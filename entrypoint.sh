@@ -12,4 +12,4 @@ echo ls
 ls -a
 echo endls
 
-# sh -c "java -jar /app.jar $*"
+sh -c "java -jar /app.jar $*"
