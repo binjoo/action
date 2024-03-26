@@ -4,8 +4,12 @@ set -eu
 
 export GITHUB="true"
 
-cd /home/runner/work/image-host/image-host
+echo pwd
+pwd
+echo endpwd
 
+echo ls
 ls
+echo endls
 
 # sh -c "java -jar /app.jar $*"
