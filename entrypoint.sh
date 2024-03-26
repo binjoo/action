@@ -6,7 +6,7 @@ export GITHUB="true"
 
 cd /
 
-ll
+ls
 
 mkdir box
 
